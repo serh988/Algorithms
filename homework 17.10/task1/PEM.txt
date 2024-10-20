@@ -1,0 +1,4 @@
+Публичный ключ RSA:
+-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz0u3EnAsW3rS5y...
+-----END PUBLIC KEY-----
